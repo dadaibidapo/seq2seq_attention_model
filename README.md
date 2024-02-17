@@ -1,0 +1,1 @@
+Developed a sequence-to-sequence (seq2seq) model with attention mechanisms for translating Spanish sentences to English. The project utilized TensorFlow and implemented two types of attention: dot-product attention and Bahdanau attention. The model was trained and evaluated on a dataset of Spanish-English sentence pairs, achieving accurate translations.
